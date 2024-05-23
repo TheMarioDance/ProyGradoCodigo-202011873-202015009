@@ -29,6 +29,3 @@ Este conjunto de documentos y recursos está enfocado en el análisis detallado 
 3. **Revisión de Resultados**:
    - Consultar `Graficas Percentiles.xlsx` y gráficos en `out` para análisis detallado.
 
-## Consideraciones Adicionales
-- Asegurar comprensión y posible ajuste de los scripts según necesidades o cambios del mercado.
-- Usar este análisis como parte de un enfoque integral de gestión de riesgos.
